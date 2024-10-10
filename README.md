@@ -36,16 +36,6 @@ Here are some ideas to get you started:
   <a href="https://www.leetcode.com/mahima1620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahima1620" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Most Used Languages:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="left">
@@ -101,20 +91,4 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="100px">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-      </a><br>MySQL
-    </td>
-    <td align="center" width="100px">
-      <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-      </a><br>Oracle
-    </td>
-    <td align="center" width="100px">
-      <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-      </a><br>PHP
-    </td>
-  </tr>
-</table>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahima1620&show_icons=true&locale=en&layout=compact&langs_count=10&hide=javascript,html" alt="mahima1620" /></p>
+        <img src="https
